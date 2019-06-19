@@ -1,6 +1,5 @@
 # DictionaryCoding
-Grand way to decode/encode dictionary using codable technology (as in JSON Codable), implemented by a London Studio Elegant Chaos
-_**[Link to the site](https://elegantchaos.com/2018/02/21/decoding-dictionaries-in-swift.html)**_
+Grand way to decode/encode dictionary using codable technology (as in JSON Codable), implemented by a London Studio Elegant Chaos (_**[Link to the site](https://elegantchaos.com/2018/02/21/decoding-dictionaries-in-swift.html)**_)
 
 ## About & stuff
 I seem to spend at least half of my programming life transferring values between an object or structure and some sort of dictionary format.
